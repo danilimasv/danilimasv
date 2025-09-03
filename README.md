@@ -29,4 +29,5 @@ Estrutura de apresentações e soluções aplicadas em ambientes corporativos.
 
 Aprendiz - Área Financeira (Faturamento)
 Atuação em rotinas admnistrativas e apoio nos processos de faturamento.
+
 Aprimorando o conhecimentos em TI e finanças.

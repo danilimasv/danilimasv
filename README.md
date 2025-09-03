@@ -12,6 +12,10 @@ Estudante de Técnico em Informática
 
 📚 Ciências Econômicas
 
+🥗 Nutrição
+
+💆‍♀️ Estética
+
 🧩 Experiências
 
 PBLs (Problem Based Learning) – Aprendizagem Baseada em Problemas
@@ -29,5 +33,4 @@ Estrutura de apresentações e soluções aplicadas em ambientes corporativos.
 
 Aprendiz - Área Financeira (Faturamento)
 Atuação em rotinas admnistrativas e apoio nos processos de faturamento.
-
 Aprimorando o conhecimentos em TI e finanças.

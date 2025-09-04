@@ -12,9 +12,6 @@ Estudante de Técnico em Informática
 
 📚 Ciências Econômicas
 
-🥗 Nutrição
-
-💆‍♀️ Estética
 
 🧩 Experiências
 

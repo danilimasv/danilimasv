@@ -1,3 +1,12 @@
+
+<h1 align="center"> Bem vinda(o) ao meu repositório
+
+
+![banner](565d67b0808e022c7e5d9cccef5e06fb.jpg)
+
+
+
+
 👩‍💻 Danielle Lima
 
 Estudante de Técnico em Informática

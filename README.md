@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/6e8f8fb1-f60f-4cbc-ac9a-ce1b35bb0197)
 <h1 aling="center"> Bem vinda(o) ao meu portifólio</h1>
-<h3 aling="center">Projetos e ideias em constante evolução</h3>
+<h3 aling="center">Projetos e ideias em constante ev</h3>
 <hr>
 
 

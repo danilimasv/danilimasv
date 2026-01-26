@@ -1,42 +1,40 @@
-![banner](https://github.com/user-attachments/assets/6e8f8fb1-f60f-4cbc-ac9a-ce1b35bb0197)
-<h1 aling="center"> Bem vinda(o) ao meu portifólio</h1>
-<h3 aling="center"> Estudos e projetos</h3>
-<hr>
+<h2 align="left">Olá👋, meu nome é Danielle Lima e este é meu portfólio<br><br>Estou dando início aos meus estudos na área de TI e programação.<br>Este GitHub será usado para registrar meu aprendizado, projetos e evolução ao longo do caminho 🚀</h2>
 
+###
 
+<br clear="both">
 
+<div align="center">
+</div>
 
+###
 
-👩‍💻 Danielle Lima
+<img align="right" height="150" src="https://pin.it/2PcKMtYbx"  />
 
-Estudante de Técnico em Informática
+###
 
-🎯 Áreas de interesse
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-💻 Desenvolvimento de sistemas
+###
 
-🚀 Tecnologia aplicada em suluções reais
+<div align="left">
+  <a href="@danilima.sv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="danilimasv777@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/danielle-lima-silva-647978262" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-📊 Análise de dados
+###
 
-📚 Ciências Econômicas
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/Dani Lima /Dani Lima /output/snake.svg" alt="Snake animation" />
 
-🧩 Experiências
-
-PBLs (Problem Based Learning) – Aprendizagem Baseada em Problemas
-
-📌 PBL-Plataforma de Mentoria Online para Jovens Apredizes
-Desenvolvimento de proposta tecnológica para apoiar jovens no início da carreira.
-
-📌 PBL-Ergonomia e Trabalho Seguro
-Análise de risco e soluções digitais para melhoria das condições de trabalho.
-
-📌 PBL-Projetos Digitais
-Estrutura de apresentações e soluções aplicadas em ambientes corporativos.
-
-📂 Atualmente
-
-Aprendiz - Área Financeira (Faturamento)
-Atuação em rotinas admnistrativas e apoio nos processos de faturamento.
-Aprimorando o conhecimentos em TI e finanças.
+###
